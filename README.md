@@ -1,3 +1,5 @@
+NAME: BYIRINGIRO PLACIDE 
+CLASS: L3 SOD A
 # puzzlegame
 
 ## Project setup
